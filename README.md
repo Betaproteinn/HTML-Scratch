@@ -5,6 +5,7 @@
 
 <img src="screenshots.jpg" width="800" />
 
+# English
 # HTML Scratch
 
 HTML Scratch is a lightweight tool for editing, previewing, and exporting HTML.  
@@ -43,8 +44,48 @@ Chromium-based browsers such as Chrome or Edge are recommended.
 
 MIT
 
+# Japanese
+# HTML Scratch
 
+HTML Scratch は、HTML を純粋なテキストとして編集・確認・書き出すための軽量ツールです。  
+HTML スニペットを素早く記述・修正・検証する用途に適しています。
 
+本プロジェクトは単一の HTML ファイルとして提供されており、  
+ブラウザで直接開いて使用できます。
+
+インストール不要、ビルド不要、バックエンド不要です。
+
+## 機能
+
+- プレーンテキストによる HTML 編集
+- iframe を用いたリアルタイムプレビュー
+- エディタ内検索およびナビゲーション
+- クリップボードからの HTML 貼り付け
+- `.html` ファイルとしてのワンクリック書き出し
+- 折りたたみ・幅調整可能な編集パネル
+- HTML 用のスクラッチパッド／一時作業スペースとして利用可能
+
+すべての内容はブラウザ内でのみ処理され、  
+外部に送信されたり永続化されることはありません。
+
+## 使用方法
+
+HTML ファイルをブラウザで直接開くだけで使用できます。
+
+Chrome や Edge などの Chromium 系ブラウザを推奨します。
+
+## 注意事項
+
+- 編集およびプレビュー処理はすべてフロントエンドで行われます
+- プレビューは iframe 内でレンダリングされ、メインページから分離されています
+- 追加のサービスやサーバーを必要としません
+- ローカルの元ファイルを変更・操作することはありません
+
+## License
+
+MIT
+
+# Chinese
 # HTML Scratch
 
 HTML Scratch 是一个用于编辑、预览和导出 HTML 的轻量级工具。  
